@@ -1,0 +1,1 @@
+DELETE FROM meibo WHERE name = '田中2郎';

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX id_idx ON meibo (id);
